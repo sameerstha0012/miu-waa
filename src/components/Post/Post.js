@@ -1,4 +1,5 @@
 import React from "react";
+import PostDetails from "./PostDetails";
 
 const Post = ({ post }) => {
   return (
